@@ -33,7 +33,17 @@ To install ARGraffiti, follow these instructions:
 
 ## How does the app work?
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+* Step 1: Click Start Painting and touch the screen to paint.
+
+![Start painting](https://i.imgur.com/1o6G7MX.gif)
+
+* Step 2: Save the painting. (Note you can visualize the point cloud while painting)
+
+![Save painting and map](https://i.imgur.com/7XBBAsW.gif)
+
+* Step 3: Close the app and reopen it in the same area. Click load painting.
+
+![Reload painting](https://i.imgur.com/WoaC5tj.gif)
 
 
 
